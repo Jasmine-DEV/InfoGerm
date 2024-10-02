@@ -20,4 +20,3 @@ public class SnakeGame extends JFrame {
         ex.setVisible(true);
     }
 }
-
